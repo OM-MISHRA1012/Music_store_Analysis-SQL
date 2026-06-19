@@ -50,7 +50,7 @@ The project consists of the following tables:
 
 ## 📸 Database Schema
 
-![Music Store Schema]([schema_diagram.png](https://github.com/OM-MISHRA1012/Music_store_Analysis-SQL/blob/main/Database%20Schema.png)
+![Music Store Schema](https://github.com/OM-MISHRA1012/Music_store_Analysis-SQL/blob/main/Database%20Schema.png)
 
 ---
 
